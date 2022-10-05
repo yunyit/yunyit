@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on any cute project 
-- 📫 How to reach me ...
+- 📫 How to reach me ... www.yunyitang.me/
 
 <!---
 yunyitang820/yunyitang820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

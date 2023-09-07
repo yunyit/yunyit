@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yunyitang820
+- 👋 Hi, I’m Yunyi
 - 👀 I’m interested in database management
 - 🌱 I’m currently learning Responsive Web Design and Relational Database at [freeCodeCamp](https://www.freecodecamp.org/)
 - 💞️ I’m looking to collaborate on data storage and data analysis environment within the University Advance Computing Research

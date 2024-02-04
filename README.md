@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://github.com/yunyit/sponsors">sponsors</a> -
+    <a href="https://github.com/sponsors/yunyit">sponsors</a> -
     <a href="https://yunyitang.me">blog</a> -
     <a href="mailto:yunyi.tang.820@gmail.com">email</a> -
     <a href="https://www.instagram.com/yunyi_cam/">instagram</a> -

@@ -13,10 +13,10 @@
 
 <samp>
   <ul>
-    <li><strong>Working: </strong>for one day I can have a cat as my new family 🐈‍⬛</li>
+    <li><strong>Working: </strong>for my home with my cats 🐈‍⬛</li>
     <li><strong>Listening: </strong>mostly anisongs and jazzy music 🎵</li>
-    <li><strong>Playing: </strong>retro games, roguelike games and genshin 🎮</li>
-    <li><strong>Learning: </strong>photography and French/Portuguese sometimes 📖</li>
+    <li><strong>Playing: </strong>retro games and roguelike games 🎮</li>
+    <li><strong>Learning: </strong>French and Italian 📖</li>
     <li><strong>Contact: </strong>via SNS (listed above), or send an email to me 📫</li>
     <li><strong>Fun fact: </strong>I wake up early to not miss my deadline for caffeine ☕️</li>
   </ul>

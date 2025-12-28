@@ -2,7 +2,7 @@
   <samp>
     <a href="https://github.com/sponsors/yunyit">sponsors</a> -
     <a href="https://yunyitang.me">blog</a> -
-    <a href="mailto:yunyi.tang.820@gmail.com">email</a> -
+    <a href="mailto:yunyitang.me@gmail.com">email</a> -
     <a href="https://www.instagram.com/yunyi_cam/">instagram</a> -
     <a href="https://www.goodreads.com/user/show/161105203-yunyi-tang">goodreads</a> -
     <a href="https://music.163.com/#/user/home?id=35631431">playlist</a>
@@ -17,7 +17,7 @@
     <li><strong>Listening: </strong>mostly anisongs and jazzy music 🎵</li>
     <li><strong>Playing: </strong>retro games and roguelike games 🎮</li>
     <li><strong>Learning: </strong>French and Italian 📖</li>
-    <li><strong>Contact: </strong>via SNS (listed above), or send an email to me 📫</li>
+    <li><strong>Contact: </strong>via SNS (listed above) or <a href="mailto:yunyitang.me@gmail.com">email</a> 📫</li>
     <li><strong>Fun fact: </strong>I wake up early to not miss my deadline for caffeine ☕️</li>
   </ul>
 </samp>

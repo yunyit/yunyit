@@ -9,7 +9,7 @@
   </samp>
 </p>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=yunyit&count_private=true&show_icons=true&bg_color=ffffff00&text_color=666666&&hide_border=true" width="380" alt="GitHub Stats" align="right" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=yunyit&count_private=true&show_icons=true&bg_color=ffffff00&text_color=41B349&&hide_border=true" width="380" alt="GitHub Stats" align="right" />
 
 <samp>
   <ul>

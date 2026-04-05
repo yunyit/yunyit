@@ -5,7 +5,7 @@
     <a href="mailto:yunyitang.me@gmail.com">email</a> -
     <a href="https://www.instagram.com/yunyi_cam/">instagram</a> -
     <a href="https://www.goodreads.com/user/show/161105203-yunyi-tang">goodreads</a> -
-    <a href="https://music.163.com/#/user/home?id=35631431">playlist</a>
+    <a href="https://music.apple.com/gb/playlist/apr-26/pl.u-NpXmmz4C4PxgvKZ">playlist</a>
   </samp>
 </p>
 
